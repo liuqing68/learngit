@@ -1,0 +1,66 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+# ============================
+#²âÊÔ»·¾³hosts
+
+192.168.50.30 betabss.csdn.net betaadminbss.csdn.net betaadminsps.csdn.net betasps.csdn.net betahuiyi.csdn.net
+192.168.50.31 betamall.csdn.net alimall.csdn.net
+192.168.50.32 betacart.csdn.net
+192.168.50.33 betaorder.csdn.net
+
+#192.168.50.34 betapay.csdn.net alipay.csdn.net
+192.168.50.35 betaadminad.csdn.net
+192.168.50.35 betaads.csdn.net
+#192.168.50.36 betaedu.csdn.net
+192.168.50.37 betaedu.csdn.net
+101.201.178.158 edu.csdn.net
+192.168.50.36 betathrift.csdn.net
+#192.168.50.50 passport.csdn.net admin.passport.csdn.net
+192.168.50.59 test.my.csdn.net
+#192.168.60.50 passport.csdn.net
+#192.168.60.50 admin.passport.csdn.net
+192.168.50.55 credits.csdn.net
+192.168.50.54 admin.uc.csdn.net
+#192.168.50.51 test.download.csdn.net
+#192.168.50.53 admin.internalapi.csdn.net internalapi.csdn.net
+#101.201.170.241 admin.internalapi.csdn.net internalapi.csdn.net
+
+#172.16.100.104 edu.csdn.net
+
+#download²âÊÔ»·¾³
+192.168.50.51   test.download.csdn.net
+
+#»ý·Ö²âÊÔ»·¾³
+192.168.50.54 betaadmin.uc.csdn.net
+
+#111.206.38.20 v.edu.csdn.net
+
+
+#192.168.60.53 internalapi.csdn.net
+
+192.168.72.93 ledu.csdn.net
+
+192.168.50.54 betaadmin.uc.csdn.net
+192.168.50.59 test.my.csdn.net
+
+192.168.50.37 betacu.csdn.net
+1234

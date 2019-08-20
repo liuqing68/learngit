@@ -24,5 +24,6 @@ BeautifulReport(discover).report(filename=reportName, description=description, r
 report = os.path.join(reportPath, reportName)
 
 #修改文件然后提交，查看版本
+#查看文件修改后的状态
 # 发送邮件
 # sendEmail.email(report)
