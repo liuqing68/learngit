@@ -23,5 +23,6 @@ description = "ATS系统接口自动化测试报告"
 BeautifulReport(discover).report(filename=reportName, description=description, report_dir=reportPath)
 report = os.path.join(reportPath, reportName)
 
+#修改文件然后提交，查看版本
 # 发送邮件
 # sendEmail.email(report)
